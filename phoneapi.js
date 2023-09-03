@@ -7,7 +7,7 @@ const options = {
     'content-type': 'application/json',
     Authorization: '<REQUIRED>',
     'Content-Type': 'application/json',
-    'X-RapidAPI-Key': 'b50641ace3msh10f80a16144f0bbp1bd5e8jsn998ca82e7f65',
+    'X-RapidAPI-Key': ,
     'X-RapidAPI-Host': 'clicksend.p.rapidapi.com'
   },
   data: {
